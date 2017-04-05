@@ -16,9 +16,6 @@ mongoDB下载链接：https://www.mongodb.com/download-center?jmp=nav#community
 
 3.如果是linux系统 通过输入 scrapy crawl nYtimes 启动
 
-有关本程序代码相关的问题你可以通过邮件联系我:zhouchunyu20xx@163.com 请注明有关scrapyNew
-关于本书中的其它例子，也还在coding中，有机会一起讨论。qq：1194334024
-
 另外本代码采集的网站需要翻墙。
 
 
